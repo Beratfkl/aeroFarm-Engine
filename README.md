@@ -2,7 +2,8 @@
 
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![GUI](https://img.shields.io/badge/GUI-Java_Swing_%26_Java2D-5382a1?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![Architecture](https://img.shields.io/badge/Architecture-Custom_AST_Interpreter-4ADE80?style=for-the-badge)](https://github.com/)
+[![Architecture](https://img.shields.io/badge/Architecture-Custom_AST_Interpreter-4ADE80?style=for-the-badge)](https://github.com/Beratfkl/aeroFarm-Engine)
+[![Download](https://img.shields.io/badge/Download-Release_v1.0.0-22c55e?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Beratfkl/aeroFarm-Engine/releases/latest)
 
 **aeroFarm Engine** is a cozy automation simulator where you program an autonomous farming drone using Java/C-like scripts on a floating isometric island. 
 
